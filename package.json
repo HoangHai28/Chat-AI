@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@clerk/clerk-react": "^5.11.0",
+    "@clerk/clerk-sdk-node": "^5.0.48",
+    "@google/generative-ai": "^0.21.0",
+    "@tanstack/react-query": "^5.59.0",
+    "imagekitio-react": "^4.2.0",
+    "mongoose": "^8.7.0",
+    "react-markdown": "^9.0.1",
+    "react-router-dom": "^6.26.2",
+    "react-type-animation": "^3.2.0"
+  }
+}
